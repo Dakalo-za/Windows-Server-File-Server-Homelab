@@ -81,14 +81,5 @@ Configured `CompanyData` as a shared folder using **Advanced Sharing** and confi
 * Permission Inheritance
 * Basic Troubleshooting
 
-## 📸 Screenshots
 
-Screenshots documenting the implementation are included in this repository.
 
-## 🚀 Future Improvements
-
-* Add a Windows client VM
-* Test departmental access using different users
-* Configure Group Policy
-* Configure mapped network drives
-* Test backup and restore
